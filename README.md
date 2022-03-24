@@ -1,2 +1,2 @@
 # World-Population-2022
-It's a Jupyter Notebook filñe which contains an EDA 
+It's a Jupyter Notebook file which contains an EDA 
